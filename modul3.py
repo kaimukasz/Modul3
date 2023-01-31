@@ -14,3 +14,5 @@ for shop in shopping_list:
   print(f"Idę do {shop}, kupuję tu następujące rzeczy: {shopping_list[shop]}")
   suma = len(shopping_list[shop][shops])
 print(f"W sumie kupuję {suma} produktów.")
+
+print("Pozdrowienia dla mentora")
